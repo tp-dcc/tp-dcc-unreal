@@ -1,0 +1,10 @@
+name: 'tp-dcc-unreal'
+version: '1.0.0'
+required: True
+author: 'Tomas Poveda'
+authorEmail: 'tpovedatd@gmail.com'
+description: 'Unreal package for tp-dcc Tools framework'
+displayName: 'tp-dcc Unreal'
+environment:
+  PYTHONPATH:
+    - '{self}'
